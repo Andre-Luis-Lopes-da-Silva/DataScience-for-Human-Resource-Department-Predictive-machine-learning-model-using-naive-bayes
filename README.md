@@ -17,4 +17,4 @@ The metrics obtained in this study were:
 Accuracy: 0.81,
 Precision: 0.43,
 Recall: 0.63 and
-F1 Score: 0.7
+F1 Score: 0.7.
